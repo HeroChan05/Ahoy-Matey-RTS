@@ -1,0 +1,116 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA NVS 5200M (ID=0xdfc)
+    Vendor:   NVIDIA
+    VRAM:     978 MB
+    Driver:   21.21.13.7654
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Andrew\Documents\Repos\Ahoy Matey RTS\Ahoy Matey RTS\Ahoy Matey_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Andrew\Documents\Repos\Ahoy Matey RTS\Ahoy Matey RTS\Ahoy Matey_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Andrew\Documents\Repos\Ahoy Matey RTS\Ahoy Matey RTS\Ahoy Matey_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Andrew\Documents\Repos\Ahoy Matey RTS\Ahoy Matey RTS\Ahoy Matey_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Andrew\Documents\Repos\Ahoy Matey RTS\Ahoy Matey RTS\Ahoy Matey_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Andrew\Documents\Repos\Ahoy Matey RTS\Ahoy Matey RTS\Ahoy Matey_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Andrew\Documents\Repos\Ahoy Matey RTS\Ahoy Matey RTS\Ahoy Matey_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Andrew\Documents\Repos\Ahoy Matey RTS\Ahoy Matey RTS\Ahoy Matey_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Andrew\Documents\Repos\Ahoy Matey RTS\Ahoy Matey RTS\Ahoy Matey_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Andrew\Documents\Repos\Ahoy Matey RTS\Ahoy Matey RTS\Ahoy Matey_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Andrew\Documents\Repos\Ahoy Matey RTS\Ahoy Matey RTS\Ahoy Matey_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Andrew\Documents\Repos\Ahoy Matey RTS\Ahoy Matey RTS\Ahoy Matey_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Andrew\Documents\Repos\Ahoy Matey RTS\Ahoy Matey RTS\Ahoy Matey_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Andrew\Documents\Repos\Ahoy Matey RTS\Ahoy Matey RTS\Ahoy Matey_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Andrew\Documents\Repos\Ahoy Matey RTS\Ahoy Matey RTS\Ahoy Matey_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Andrew\Documents\Repos\Ahoy Matey RTS\Ahoy Matey RTS\Ahoy Matey_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.431 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.593143 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: a9f0 -> priority: 1 
+  Thread -> id: 4128 -> priority: 1 
+  Thread -> id: 8d8c -> priority: 1 
+  Thread -> id: 896c -> priority: 1 
+0.1128093 Client start requested
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+14.99797 Client start requested
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+15.01481 Client is connected to Ip: 127.0.0.1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:7777} time {69990}, last rec time {67506} rtt {11} timeout {2000}
+ClientDisconnected due to error: Timeout
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
